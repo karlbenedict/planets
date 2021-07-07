@@ -8,3 +8,4 @@ Mars is sort of spherical!
 
 Karl don't pull yet - thanks! OK that's the plan
 I won't accept either change, but I will add my own text.
+Testing conflict resolution in GitHub desktop.
