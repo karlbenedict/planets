@@ -5,3 +5,5 @@ This line added to demonstrate conflicts - my change will be better than Karl's 
 This is a valuable addition to our Mars info. 
 A second line added, it won't be as good.
 Mars is sort of spherical!
+
+Karl don't pull yet - thanks! OK that's the plan
