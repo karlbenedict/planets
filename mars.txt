@@ -7,3 +7,4 @@ A second line added, it won't be as good.
 Mars is sort of spherical!
 
 Karl don't pull yet - thanks! OK that's the plan
+Editing in the Github editor - forcing another conflict!
